@@ -1,0 +1,39 @@
+# Core LLM Framework
+langchain
+langchain-core
+langchain-community
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Mistral Integration
+langchain-mistralai
+
+# Vector Database
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Tokenization
+tiktoken
+
+# Document Processing
+pypdf
+pdfplumber
+python-docx
+unstructured
+
+# Text Splitting & Utilities
+numpy
+pandas
+
+# Environment Variables
+python-dotenv
+
+# API Requests
+requests
+
+# Streamlit UI (if building chatbot UI)
+streamlit
